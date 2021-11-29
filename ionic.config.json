@@ -1,0 +1,8 @@
+{
+  "name": "AgacheTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "61a163db"
+}
